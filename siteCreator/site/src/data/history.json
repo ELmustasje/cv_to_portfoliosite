@@ -1,0 +1,51 @@
+[
+  {
+    "role": "Software Intern",
+    "organisation": "KLP",
+    "startDate": "Jun, 2025",
+    "endDate": "Aug, 2025",
+    "experiences": [
+      "Working in the settlement department, optimising the codebase"
+    ]
+  },
+  {
+    "role": "Teaching Assistant INF101",
+    "organisation": "University Of Bergen",
+    "startDate": "Jan, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Planing and executing group sessions for the course advanced programming",
+      "Grading students work"
+    ]
+  },
+  {
+    "role": "Teaching Assistant INF100",
+    "organisation": "University Of Bergen",
+    "startDate": "Aug, 2024",
+    "endDate": "Des, 2024",
+    "experiences": [
+      "Planing and executing group sessions for the course intro to programming",
+      "Grading students work"
+    ]
+  },
+  {
+    "role": "Board-Member",
+    "organisation": "FriByte",
+    "startDate": "Sept, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Making complete IT solutions for other student organisations",
+      "In charge of social gatherings"
+    ]
+  },
+  {
+    "role": "Badminton Coach for kids",
+    "organisation": "Badminton-kretsen Vest",
+    "startDate": "Jun, 2022",
+    "endDate": "Apr, 2025",
+    "experiences": [
+      "Substitute coach",
+      "Planning and organisation of traings for small kids"
+    ]
+  }
+]

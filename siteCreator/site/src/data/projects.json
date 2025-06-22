@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Cup2000-head-to-head-NBF",
+    "description": "Head-to-head system for the Cup2000 tournament software",
+    "skills": ["Java", "Web-scraping"],
+    "source": "https://github.com/ELmustasje/Cup2000-head-to-head-NBF"
+  },
+  {
+    "title": "Studentskatt.no",
+    "description": "A website to help students find taxbreaks and navigate all the diffrent tax rules.",
+    "skills": ["React", "TS", "Node", "Vercel"],
+    "site": "https://studentskatt.no",
+    "source": "https://github.com/ELmustasje/StudentSkatt"
+  },
+  {
+    "title": "Wordle with AI",
+    "description": "Project i made for univerity where we created a worlde game and an AI to solve.",
+    "skills": ["AI", "Algorithms", "Java"],
+    "source": "https://github.com/ELmustasje/Wordle"
+  },
+  {
+    "title": "Douchebag Simulator",
+    "description": "Game i made for fun where i tried to recrate the game Douchebag Simulator in Java.",
+    "skills": ["Java","Game Development"],
+    "source": "https://github.com/ELmustasje/Douchebag-Sim",
+    "demo": "https://youtu.be/rYBXnI9_Uxo"
+  },
+  {
+    "title": "Simple Filesystem",
+    "description": "Created a filesystem in Python to learn about how OS and filesystems does filehandling. ",
+    "skills": ["Python", "Low-Level", "OS"],
+    "source": "https://github.com/ELmustasje/simple-filesystem"
+  },
+  {
+    "title": "Portfolio Site",
+    "description": "Created a Simple site to showcase my work and experiences. I aslo used it to learn CSS",
+    "skills": ["React", "TS", "Node", "Vercel", "CSS"],
+    "site":"/", 
+    "source": "https://github.com/ELmustasje/Portfolio-site"
+  },
+  {
+    "title": "BSI golf API + site",
+    "description": "Created an api in python to create groups for golf training + simple webite to display results",
+    "skills": ["React", "TS", "Python", "Vercel", "API"],
+    "site":"https://bsi-golf-side.vercel.app", 
+    "source": "https://github.com/ELmustasje/bsi-golf-api"
+
+  }
+
+]
