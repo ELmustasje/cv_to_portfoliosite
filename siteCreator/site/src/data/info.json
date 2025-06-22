@@ -1,28 +1,21 @@
 {
   "name": "Thomas Barth",
-  "current_workplace": "",
-  "bio": "I'm a computer science student at the University of Bergen, and board memeber at both FriByte and BSI-golf. Winner of Labyrinten UiB (team programming contest), qualified to the final in Oslo.",
+  "current_workplace": "University of Bergen",
+  "bio": "I'm a computer science student at the University of Bergen with a strong passion for programming and software development. With a solid foundation in languages like C/C++, Rust, Java, Python, and Haskell, I'm eager to apply my skills in real-world projects and collaborate with like-minded individuals.",
   "relevant_experience_history": [
     {
       "company": "KLP Teknologi",
       "role": "Intern - Software",
-      "start_year": "2024",
-      "end_year": "2025",
-      "experiences": "wadawdawdwadaw"
+      "start_date": "",
+      "end_date": "",
+      "experiences": "Improving production systems, software development, analysis, solution design, and testing with technologies like Java, Spring Boot, REST APIs, Jenkins, Bitbucket, and React JS."
     },
     {
       "company": "University of Bergen",
       "role": "Teaching Assistant",
-      "start_year": "2023",
-      "end_year": "2024",
-      "experiences": "wadawdawdwadaw"
-    },
-    {
-      "company": "University of Bergen",
-      "role": "Teaching Assistant",
-      "start_year": "2024",
-      "end_year": "2025",
-      "experiences": "wadawdawdwadaw"
+      "start_date": "",
+      "end_date": "",
+      "experiences": "Assisting students in 'Introduction to Programming' and 'Advanced Programming' courses, planning and executing group sessions, and researching teaching styles."
     }
   ],
   "coding_projects": [
@@ -31,9 +24,9 @@
       "technologies": [
         ""
       ],
-      "description": "adawdwadwadawdwad",
+      "description": "",
       "demoLink": "https://portfolio-site-orpin-delta.vercel.app/",
-      "githubLink": "aaaaaa"
+      "githubLink": ""
     },
     {
       "project_name": "Duchebag-simulator",
@@ -41,8 +34,8 @@
         ""
       ],
       "description": "",
-      "link": "daw",
-      "githubLink": "aaaaaa"
+      "demoLink": "",
+      "githubLink": ""
     },
     {
       "project_name": "Worlde with AI",
@@ -50,8 +43,8 @@
         ""
       ],
       "description": "",
-      "link": "",
-      "githubLink": "aaaaaa"
+      "demoLink": "",
+      "githubLink": ""
     },
     {
       "project_name": "Simple filesystem",
@@ -59,27 +52,32 @@
         ""
       ],
       "description": "",
-      "link": "",
-      "githubLink": "aaaaaa"
+      "demoLink": "",
+      "githubLink": ""
     },
     {
-      "project_name": "studentskaffen.no",
+      "project_name": "studentska.no",
       "technologies": [
         ""
       ],
       "description": "",
-      "link": "",
-      "githubLink": "aaaaaa"
+      "demoLink": "",
+      "githubLink": ""
     }
   ],
   "contact": {
-    "email": "tttt",
-    "linkedIn": "https://www.linkedin.com/thomas-barth?_l=en_US",
-    "github": "ccccc"
+    "email": "",
+    "linkedIn": "",
+    "github": ""
   },
   "other": [
-    "Winner of Labyrinten UiB (team programming contest)",
-    "Gold medal, National team championship 2x Jr. National champion in Badminton",
-    "Top 50% finish Bergen - Voss (roadbike race)"
+    {
+      "organisation": "FriByte",
+      "description": "Non-profit student organization dedicated to developing and managing IT systems for clients."
+    },
+    {
+      "organisation": "BSI GOLF",
+      "description": "Golf group of Bergen Student Sports Club (BSI) at the University of Bergen."
+    }
   ]
 }

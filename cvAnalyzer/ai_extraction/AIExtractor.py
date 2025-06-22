@@ -1,19 +1,20 @@
 from huggingface_hub import login, InferenceClient
-import PdfToStringParser
+from ai_extraction.PdfToStringParser import extract_text
 import os
 from dotenv import load_dotenv
 
 
-load_dotenv("../.env")
+load_dotenv("cvAnalyzer/ai_extraction/.env")
 my_token = os.getenv('token')
 print(my_token)
+
 # Log in first with your API Token
 login(my_token)
 
 # Initialize a client with your API token
 client = InferenceClient(
     provider="cerebras",
-    api_key="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",
+    api_key=my_token,
     model="meta-llama/Llama-4-Scout-17B-16E-Instruct"
 )
 
@@ -53,22 +54,22 @@ You are an automated CV parser for computer science students. Your task is to ex
 
 Please extract this information as accurately as you can.
 If something is missing, do your best to research if its like an organisation and you need description. if you cant find anything with certanty, leave it empty.
-your are to create the bio from what you read, 2 senteces.
+your are to create the bio from what you read in first person, 2 senteces.
 
 You are to return text only in the json format nothing else.
 
 Here’s the CV text you should extract from:"""
 
-input = PdfToStringParser.extract_text("resourses/testCV.pdf")
+input = extract_text("resourses/testCV.pdf")
 
 
 def run(path_to_cv):
 
-    input = PdfToStringParser.extract_text("resourses/testCV.pdf")
+    input = extract_text(path_to_cv)
 
     messages = [
         {"role": "system", 'content': prompt},
-        {"role": "user", "contact": input}
+        {"role": "user", "content": input}
     ]
 
     response = client.chat_completion(messages)

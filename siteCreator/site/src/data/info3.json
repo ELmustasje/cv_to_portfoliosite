@@ -1,0 +1,85 @@
+{
+  "name": "Thomas Barth",
+  "current_workplace": "",
+  "bio": "I'm a computer science student at the University of Bergen, and board memeber at both FriByte and BSI-golf. Winner of Labyrinten UiB (team programming contest), qualified to the final in Oslo.",
+  "relevant_experience_history": [
+    {
+      "company": "KLP Teknologi",
+      "role": "Intern - Software",
+      "start_year": "2024",
+      "end_year": "2025",
+      "experiences": "wadawdawdwadaw"
+    },
+    {
+      "company": "University of Bergen",
+      "role": "Teaching Assistant",
+      "start_year": "2023",
+      "end_year": "2024",
+      "experiences": "wadawdawdwadaw"
+    },
+    {
+      "company": "University of Bergen",
+      "role": "Teaching Assistant",
+      "start_year": "2024",
+      "end_year": "2025",
+      "experiences": "wadawdawdwadaw"
+    }
+  ],
+  "coding_projects": [
+    {
+      "project_name": "Portfolio site",
+      "technologies": [
+        ""
+      ],
+      "description": "adawdwadwadawdwad",
+      "demoLink": "https://portfolio-site-orpin-delta.vercel.app/",
+      "githubLink": "aaaaaa"
+    },
+    {
+      "project_name": "Duchebag-simulator",
+      "technologies": [
+        ""
+      ],
+      "description": "",
+      "link": "daw",
+      "githubLink": "aaaaaa"
+    },
+    {
+      "project_name": "Worlde with AI",
+      "technologies": [
+        ""
+      ],
+      "description": "",
+      "link": "",
+      "githubLink": "aaaaaa"
+    },
+    {
+      "project_name": "Simple filesystem",
+      "technologies": [
+        ""
+      ],
+      "description": "",
+      "link": "",
+      "githubLink": "aaaaaa"
+    },
+    {
+      "project_name": "studentskaffen.no",
+      "technologies": [
+        ""
+      ],
+      "description": "",
+      "link": "",
+      "githubLink": "aaaaaa"
+    }
+  ],
+  "contact": {
+    "email": "tttt",
+    "linkedIn": "https://www.linkedin.com/thomas-barth?_l=en_US",
+    "github": "ccccc"
+  },
+  "other": [
+    "Winner of Labyrinten UiB (team programming contest)",
+    "Gold medal, National team championship 2x Jr. National champion in Badminton",
+    "Top 50% finish Bergen - Voss (roadbike race)"
+  ]
+}

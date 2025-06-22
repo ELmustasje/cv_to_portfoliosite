@@ -1,5 +1,4 @@
-import AItoJsonParser
+import ai_extraction.AItoJsonParser as AItoJsonParser
 
-
-path_to_cv = "../resourses/Thomas Barth (CV)-4.pdf"
+path_to_cv = "resourses/testCV.pdf"
 AItoJsonParser.run(path_to_cv)
